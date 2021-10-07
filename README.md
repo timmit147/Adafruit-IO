@@ -42,3 +42,6 @@ Aan de rechter kant kan je een nieuw blok aanmaken kies hierbij color picker en 
 Ga naar de arduino File > Examples > Adafruit IO Arduino > Adafruitio_14_neopixel
 
 Verander in de code : #define PIXEL_PIN 5  naar #define PIXEL_PIN D5
+
+## Fouten 
+Ik begreep eerst niet dat de Baud rate per programa anders kan zijn en dat ik deze dan elke keer moet aanpassen.
