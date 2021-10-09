@@ -7,7 +7,7 @@ Ik heb een app gemaakt waarbij je de LEDstrip kleuren kan aanpassen via de wifi.
 
 ## Uitleg
 
-[Arduino instaleren](Arduino instaleren)
+[Arduino instaleren](/wiki/Arduino-instaleren)
 
 [Adafruit IO connecten](Adafruit IO connecten)
 
