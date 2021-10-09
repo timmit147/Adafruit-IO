@@ -45,3 +45,4 @@ Verander in de code : #define PIXEL_PIN 5  naar #define PIXEL_PIN D5
 
 ## Fouten 
 Ik begreep eerst niet dat de Baud rate per programa anders kan zijn en dat ik deze dan elke keer moet aanpassen.
+https://www.youtube.com/watch?v=4Z8f5MyS_EY
