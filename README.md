@@ -9,8 +9,7 @@ Ik heb een app gemaakt waarbij je de LEDstrip kleuren kan aanpassen via de wifi.
 
 [Arduino instaleren](https://github.com/timmit147/Adafruit-IO/wiki/Arduino-instaleren)
 
-[Adafruit IO connecten](Adafruit IO connecten)
+[Adafruit IO connecten](https://github.com/timmit147/Adafruit-IO/wiki/Adafruit-IO-connecten)
 
-[Adafruit IO code](Adafruit IO code)
 
 
